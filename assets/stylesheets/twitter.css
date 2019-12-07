@@ -1,0 +1,216 @@
+body {
+    background-color: #E6ECF0;
+}
+
+#main-links {
+    font-weight: bold;
+    background-color: white;
+    border: none;
+    padding: 0 25px 15px 25px;
+    margin-bottom: -15px;
+}
+
+#main-links:hover {
+    color: #3AA1F2;
+    border-bottom: 2px solid #3AA1F2;
+}
+
+.bird {
+    color: #3AA1F2;
+}
+
+.jumbotron {
+    background-image:url('https://images.unsplash.com/photo-1510274460854-4b7ad642d3a9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80');
+    padding: 20%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    margin-top: -150px;
+    background-attachment: fixed;
+    background-position: center -238px;
+    border: 1px solid gray;
+}
+
+.search-bar {
+    background-color: #F5F8FA;
+    border: 2px solid #E6ECF0;
+    padding: 3px 10px;
+    border-radius: 25px;
+}
+
+.search {
+    background-color: #F5F8FA;
+    border: none;
+}
+
+.search-button {
+    border: none;
+    background-color: #F5F8FA;
+    color: gray;
+}
+
+.sub-header {
+    background-color: white;
+    color: gray;
+    padding-top: 10px;
+    margin-top: -32px;
+    box-shadow: 1px 1px 15px grey;
+    text-align: center;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.follow-button {
+    background-color: white;
+    border: 2px solid #3384B4;
+    border-radius: 25px;
+    color: #3384B4;
+    font-weight: bold;
+    padding: 10px 32px;
+    text-align: right;
+    text-decoration: none;
+    float: right;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.follow-button:hover {
+    background-color: #E6ECF0;
+}
+
+.stat-info {
+    color: gray;
+}
+
+.stat-info:hover {
+    text-decoration: none;
+    color: gray;
+}
+
+.stat-button {
+    background-color: white;
+    border: none;
+    padding: 0 25px 5px 25px;
+    color: gray;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.stat-button:hover {
+    color: #3384B4;
+    border-bottom: 2px solid #3384B4;
+}
+
+
+.bio {
+    margin-top: -250px;
+}
+
+.bio h3 a{
+    font-weight: bold;
+    color: black;
+}
+
+.bio h6, .bio h6 a, .bio-details {
+    color: gray;
+    font-weight: lighter;
+}
+
+.policies, .policies a {
+    color: #797886;
+    font-size: 15px;
+}
+
+.card-body h5 {
+    font-weight: bold;
+    color: black;
+}
+
+.trends a {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.trends p {
+    color: #797886;
+}
+
+.content-links {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.content-name {
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.content-date {
+    color: gray;
+    font-weight: lighter; 
+}
+
+.content-stats {
+    color: gray;
+    font-weight: bold;
+}
+
+.retweet:hover {
+    color: #17BF63;
+}
+
+.heart:hover {
+    color: #FF3366;
+}
+
+.profile-pic {
+    border-radius: 50%;
+    border: 5px solid white;
+    width: 250px;
+    margin-bottom: 10px;
+}
+
+.content-main:hover {
+    background-color: #F5F8FA;
+}
+
+.referral h6{
+    margin-bottom: -3px;
+}
+.referral h6 a {
+    color: black;
+    font-weight: bold;
+}
+
+.referral h6 a:hover {
+    color: #3384B4;
+}
+
+.referral p a {
+    color: gray;
+    font-weight: lighter;
+}
+
+.referral p a:hover {
+    text-decoration: none;
+}
+
+.referral-pic {
+    width: 60px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.referral-details {
+    margin-bottom: 30px;
+}
+
+.referral img {
+    display: inline-block;
+    vertical-align: middle;
+}
